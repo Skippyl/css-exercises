@@ -1,3 +1,12 @@
 .first, .second{
-    
+    font-family: Helvetica, Times New Roman, sans-serif;
+    border-color: grey;
+    font-weight: bold;
+}
+.first{
+    background-color: black;
+    color: white;
+}
+.second{
+    background-color: yellow;
 }
